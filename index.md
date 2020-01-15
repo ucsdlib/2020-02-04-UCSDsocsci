@@ -14,7 +14,7 @@ instructor: ["Stephanie Labou (Library), Reid Otsuji (Library), Rick Mccosh (OBG
 helper: ["TDB"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["slabou@ucsd.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://hackmd.io/sEdekWP5S5WsgWNuLV73ow  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: "90070083043"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -204,9 +204,6 @@ CODE OF CONDUCT
 Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.This document also outlines how to report an incident if needed.
 </p>
 
-<p class="text-center">
-<button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
-</p>
 <hr/>
 
 
@@ -224,7 +221,7 @@ e.g., '2015-06-10-esu'.
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use this <a href="https://hackmd.io/@U2NG/ryazym6x8">collaborative document</a> for taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 {% endif %}
