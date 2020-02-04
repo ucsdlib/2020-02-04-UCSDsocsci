@@ -4,8 +4,8 @@ venue: "UC San Diego Library - Data Carpentry R for Social Science"        # bri
 address: "Classroom 4, Biomedical Library Building, 9500 Gilman Dr., La Jolla, California "      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latitude: "32.885125"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-117.241173"    # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "32.8747997"     # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-117.2384804"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Feb 4 - Feb 5, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-02-04      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
